@@ -1,0 +1,11 @@
+th{
+	background:red;
+padding: 20px;}
+}
+td{
+	color:blue;
+}
+td { background-color:white;}
+td {height:50px;}
+	table { background-color:yellow;}
+fieldset {background-color:orange;}
